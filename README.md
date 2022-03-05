@@ -8,7 +8,7 @@ Python, C++ (A bit)
 
 # My projects
 
-None so far
+- [Lush Adventure, a game made in python](https://github.com/WongMan58/lush-adventure)
 
 # My stats
 
