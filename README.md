@@ -4,7 +4,7 @@ WongMan58
 
 # Programming languages I use
 
-Python, C++
+Python, C++ (A bit)
 
 # My projects
 
