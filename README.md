@@ -16,7 +16,7 @@ Python, C++ (A bit)
 
 # Some more amazing stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WongMan58&hide=stars,prs,issues,contribs&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obiwac&layout=compact&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 WongMan58/WongMan58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
