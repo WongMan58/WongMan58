@@ -1,14 +1,14 @@
 # Who am I?
 
-WongMan58
+WongMan58, a person who makes random software and games!
 
 # Programming languages I use
 
-Python, C++ (A bit)
+Python and C++/C (Only a bit)
 
 # My projects
 
-- [Lush Adventure, a game made in python](https://github.com/WongMan58/lush-adventure)
+- [A piece of software that can help you find the answer to today's wordle](https://github.com/WongMan58/wordle-bot)
 
 # Some amazing stats:
 
