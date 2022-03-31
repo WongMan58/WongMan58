@@ -9,6 +9,7 @@ Python and C++/C (Only a bit)
 # My projects
 
 - [A piece of software that can help you find the answer to today's wordle](https://github.com/WongMan58/wordle-bot)
+- [Codex, a programming language written in python](https://github.com/WongMan58/codex)
 
 # Some amazing stats:
 
