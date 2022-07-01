@@ -1,11 +1,11 @@
 # Who am I?
 
-Hi everyone!. I'm Wongman58, a github user. I love making random useless software and fun games
+Hi everyone! I'm Wongman58, a github user. I love making random useless software and fun games
 
 # Programming languages I use
 
 - Python
-- C/C++ (Only a little bit, planing to learn further)
+- C/C++ (Only a little bit, planning to learn bit more later)
 
 # My projects
 
