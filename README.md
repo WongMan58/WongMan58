@@ -1,15 +1,19 @@
 # Who am I?
 
-Hi everyone! I'm Wongman58, a github user. I love making random useless software and fun games
+Hi everyone! I'm Wongman58, a github user. I love making useless software and games
 
 # Programming languages I use
 
 - Python
-- C/C++ (Only a little bit, planning to learn bit more later)
+- C/C++ (Learning)
+- Java (Learning)
 
 # My projects
 
-- [Wordle Bot, a piece of software that can help you find the answer to today's wordle game](https://github.com/WongMan58/wordle-bot)
+- [Wordle Helper! Guess the daily wordle word in less than 1 minute](https://github.com/WongMan58/wordle-bot)
+- [BSS! Want to simulate some semi-realistic and broken physics?](https://github.com/WongMan58/BSS)
+- [Lush Empire! Collect flower to create a new empire of flowers!](https://github.com/WongMan58/Lush-Empire)
+- [Codex! A programming language that is a mix of many languages](https://github.com/WongMan58/Codex)
 
 # Amazing stat embeds:
 
