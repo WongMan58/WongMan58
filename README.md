@@ -10,10 +10,9 @@ Hi everyone! I'm Wongman58, a github user. I love making useless software and ga
 
 # My projects
 
-- [Wordle Helper! Guess the daily wordle word in less than 1 minute](https://github.com/WongMan58/wordle-bot)
-- [BSS! Want to simulate some semi-realistic and broken physics?](https://github.com/WongMan58/BSS)
+- [Wordle Helper! Guess the daily wordle word in less than 1 minute (NOTE: On hold)](https://github.com/WongMan58/wordle-bot)
 - [Lush Empire! Collect flower to create a new empire of flowers!](https://github.com/WongMan58/Lush-Empire)
-- [Codex! A programming language that is a mix of many languages](https://github.com/WongMan58/Codex)
+- [Codex! A programming language that is a mix of many languages (NOTE: On hold)](https://github.com/WongMan58/Codex)
 
 # Amazing stat embeds:
 
