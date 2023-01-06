@@ -1,6 +1,6 @@
 # Who am I?
 
-Hi everyone! I'm Wongman58, a github user. I love making useless software and games
+Hi everyone! this is WongMan58. I've being coding around for 4 years, and I enjoy making somewhat useless software and creating also somewhat useless games to best I can.
 
 # Programming languages I use
 
