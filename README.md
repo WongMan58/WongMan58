@@ -1,12 +1,12 @@
 # Who am I?
 
-Hi everyone! this is WongMan58. I've being coding around for 4 years, and I enjoy making somewhat useless software and creating also somewhat useless games to best I can.
+Hi everyone! this is WongMan58. I've being casually (very) coding around for 4 years, and I enjoy making useless software and games. Don't expect anything amazing here.
 
 # Programming languages I use
 
-- Python
-- C/C++ (Learning)
-- Java (Learning)
+- Python (Mostly)
+- C/C++ (Mostly)
+- Java (Taking a course)
 
 # My projects
 
