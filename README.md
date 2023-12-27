@@ -4,9 +4,9 @@ Hi everyone! this is WongMan58. I've being casually (very) coding around for 4 y
 
 # Programming Languages Used:
 
-- Python (Mostly)
-- C/C++ (Mostly)
-- Java (Taking a course)
+- Python 
+- C/C++ (Still learning)
+- Java
 
 # My projects:
 
