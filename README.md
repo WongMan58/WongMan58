@@ -8,10 +8,6 @@ Hi everyone! this is WongMan58. I've being casually (very) coding around for 4 y
 - C/C++ (Still learning)
 - Java
 
-# My projects:
-
-- Psssh, they're a secret!
-
 # Pretty Cool Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WongMan58&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
