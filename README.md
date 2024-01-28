@@ -8,7 +8,6 @@ Hi everyone! this is WongMan58. I've being casually (very) coding around for 4 y
 - C/C++ (Still learning)
 - Java
 
-# Pretty Cool Stats:
+# Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WongMan58&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WongMan58&layout=compact&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
