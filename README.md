@@ -5,9 +5,5 @@ Hi everyone! this is WongMan58. I've being casually (very) coding around for 4 y
 # Programming Languages Used:
 
 - Python 
-- C/C++ (Still learning)
+- C/C++ (In the process of learning)
 - Java
-
-# Stats:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WongMan58&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
